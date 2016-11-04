@@ -1,3 +1,5 @@
+#!/bin/python3
+
 # www.hackerrank.com/challenges/missing-numbers
 
 import collections

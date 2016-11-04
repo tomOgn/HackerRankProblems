@@ -1,3 +1,5 @@
+#!/bin/python3
+
 # www.hackerrank.com/challenges/reduced-string
 
 string = input().strip()
