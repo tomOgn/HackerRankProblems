@@ -1,3 +1,5 @@
+// www.hackerrank.com/challenges/bigger-is-greater
+
 /*
 Find the minimum greater character on the right-side,
 given an index of an array of characters.
