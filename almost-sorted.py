@@ -1,6 +1,6 @@
 #!/bin/python3
 
-# https://www.hackerrank.com/challenges/almost-sorted
+# www.hackerrank.com/challenges/almost-sorted
 
 def firstUnordered(a):
     for i in range(len(a) - 1):
